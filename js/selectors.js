@@ -1,7 +1,7 @@
 // declare your functions here...
 
 function paragraghSelector(){
-  return $('p');
+  return $('p')
 }
 
 function lastImageSelector() {
@@ -12,7 +12,7 @@ function ninjaBabySelector() {
 
 }
 
-fucntion divSelector() {
+function divSelector() {
 
 }
 
