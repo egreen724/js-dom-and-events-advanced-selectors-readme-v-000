@@ -12,7 +12,7 @@ function ninjaBabySelector() {
 
 }
 
-fucntion divSelector() {
+function divSelector() {
 
 }
 
